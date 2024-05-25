@@ -16,4 +16,4 @@ Scikit-learn
 HTML, CSS, JavaScript knowledge
 VS Code -IDE
 
-On ternimal Use this command to run code - python app.py  in the VS CODE IDE TERMINAL 
+On terminal Use this command to run code - python app.py  in the VS CODE IDE TERMINAL 
